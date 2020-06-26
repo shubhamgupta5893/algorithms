@@ -1,24 +1,6 @@
 ## _Algorithms_ by [Jeff Erickson](http://jeffe.cs.illinois.edu)
 
-### **1st paperback edition** — June 13, 2019 — Now available from [Amazon](https://www.amazon.com/dp/1792644833)
-
-This is a bug-reporting site for my _Algorithms_ textbook and other related course materials.  Thanks for visiting!
-
-**Thanks to everyone who reported bugs in the 0th and &frac12;th editions!**
-
-**To report an error, please [post an issue](https://github.com/jeffgerickson/algorithms/issues).**  
-* Before submitting, please check that your error hasn't already been fixed in the most recent revision.
-* For an error in the book, please include the chapter, section, and page numbers.
-* For an error in the non-book lecture notes, please include the title and *the complete URL* of the note in question.  (There are _lots_ of old revisions floating around the web, with inconsistent titling and numbering, so just the title or the file name may not be enough.)
-* For an error in **this** semester's homework, labs, exams, or solutions, please post on the course's Piazza site for extra credit, **not** here.
-* For an error in a *past* semester's homework, labs, exams, or solutions, please post here, but again with *the complete URL* of the work in question.
-
-Please also feel free to submit feature requests and other feedback.
-
-While you're here, please feel free to download a complete copy of the most recent revision of the entire book or any of the individual chapters.  (The individual chapters are extracted from the book pdf file to keep page numbers consistent; unfortunately, hyperlinks don’t work.)
-
-A black and white electronic version of the entire manuscript is also available, which should more closely reflect the appearance of the printed volume.  I won’t update that quite as often.
-
+This book is a must for algorithmic problem solving. You can spent days on single problems without getting any closer. If you are stuck in a problem statement, open a issue , and we can solve together.
 ---
 ### Publication History
 
